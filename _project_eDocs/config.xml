@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<configuration>
+    <!--Please enter valid email address and attachment type: RoadSheet, BankStatement or CCStatement -->
+    <add Email="tracking@gps.testcompany.com" AttachmentType="RoadSheet"/>
+    <add Email="info@kbcbank.bg" AttachmentType="BankStatement"/>
+    <add Email="statement_cc@kbcbank.bg" AttachmentType="CCStatement" IBAN="BG17RZBB91551012160331"/>
+</configuration>
